@@ -6,5 +6,5 @@ Even more text
 
 # instructions
 
-Do this *first*
+Do this *first*  
 Do this **second**
